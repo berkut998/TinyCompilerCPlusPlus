@@ -46,4 +46,5 @@ int main()
 	{
 		std::cout << result3[i] << "\n";
 	}
+	std::cin >> argumentsStr;
 }
