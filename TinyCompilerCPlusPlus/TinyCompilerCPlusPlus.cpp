@@ -41,6 +41,7 @@ int main()
 	int calculationResult = Simulator::simulate(result3, arguments);
 	std::cout << "Result:" << "\n";
 	std::cout << calculationResult << "\n";
+	std::cout << "Assembler code: \n";
 	for (unsigned long i = 0; i < result3.size(); i++)
 	{
 		std::cout << result3[i] << "\n";
