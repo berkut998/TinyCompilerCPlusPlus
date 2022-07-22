@@ -40,4 +40,4 @@ Do not support error processing, all input should be valid.
 
 Application screenshots:
 
-![image](https://user-images.githubusercontent.com/66470614/180432847-34281d7a-377c-428a-9bc4-b0daa54f2c7e.png)
+![image](https://user-images.githubusercontent.com/66470614/180433427-e816e7cf-09a7-4083-9e09-a4519163c520.png)
